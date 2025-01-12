@@ -1,0 +1,22 @@
+{
+    "nodes": [
+      {"id": "Martha", "group": 1},
+      {"id": "Juan", "group": 1},
+      {"id": "Pedro", "group": 1},
+      {"id": "Elizabeth", "group": 1},
+      {"id": "Matematicas", "group": 1},
+      {"id": "Geometria", "group": 1},
+      {"id": "Visualización", "group": 1},
+      {"id": "Historia", "group": 1}
+            
+    ],
+    "links": [
+      {"source": "Martha", "target": "Matematicas", "value": 1},
+      {"source": "Martha", "target": "Geometría", "value": 8},
+      {"source": "Martha", "target": "Artes", "value": 10},
+      {"source": "Juan", "target": "Lenguaje", "value": 6},
+      {"source": "Juan", "target": "Historia", "value": 1},
+      {"source": "Juan", "target": "Matematicas", "value": 1},
+      {"source": "Elizabeth", "target": "Visualización", "value": 1}      
+    ]
+  }
